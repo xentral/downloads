@@ -1,0 +1,19 @@
+{
+  "windows": {
+    "version": "1.0.5",
+    "changelog": [
+      "Added new feature X",
+      "Improved performance of Y",
+      "Fixed bug in Z"
+    ],
+    "url": "https://github.com/xentral/downloads/raw/refs/heads/master/files/POS/XentralPOS-setup_1.0.5.exe"
+  },
+  "macos": {
+    "version": "1.0.5",
+    "changelog": [
+      "Optimized for M1",
+      "Updated security"
+    ],
+    "url": "https://github.com/xentral/downloads/raw/refs/heads/master/files/POS/Xentral-POS-Installer-1.0.5.dmg"
+  }
+}
