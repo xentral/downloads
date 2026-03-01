@@ -1,12 +1,10 @@
 {
   "windows": {
-    "version": "1.0.5",
+    "version": "1.0.6",
     "changelog": [
-      "Added new feature X",
-      "Improved performance of Y",
-      "Fixed bug in Z"
+      "Fixed handshake error that prevented retrieving data on startup."
     ],
-    "url": "https://github.com/xentral/downloads/raw/refs/heads/master/files/POS/XentralPOS-setup_1.0.5.exe"
+    "url": "https://raw.githubusercontent.com/xentral/downloads/master/files/POS/XentralPOS-setup_1.0.6.exe"
   },
   "macos": {
     "version": "1.0.5",
@@ -14,6 +12,6 @@
       "Optimized for M1",
       "Updated security"
     ],
-    "url": "https://github.com/xentral/downloads/raw/refs/heads/master/files/POS/Xentral-POS-Installer-1.0.5.dmg"
+    "url": "https://raw.githubusercontent.com/xentral/downloads/master/files/POS/XentralPOS-setup_1.0.5.dmg"
   }
 }
